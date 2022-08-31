@@ -1,0 +1,26 @@
+{
+  "name": "personal_portfolio",
+  "version": "1.0.0",
+  "description": "A Personal portfolio website by Klauden",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/KKlauden/personal_portfolio.git)"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "portfolio",
+    "ui",
+    "ux",
+    "fontend"
+  ],
+  "author": "Klauden",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+}
